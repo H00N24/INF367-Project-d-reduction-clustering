@@ -18,6 +18,7 @@ $ source venv/bin/activate
 ```
 * Installing python libraries and ipykernel for jupyter notebook
 ```sh
+[venv]$ pip install -r requiriments-pre.txt # Cython
 [venv]$ pip install -r requiriments.txt
 [venv]$ python -m ipykernel install --user --name inf367-project-2 --display-name "INF367 Project 2"
 ```
