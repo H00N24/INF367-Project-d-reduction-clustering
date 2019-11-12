@@ -1,3 +1,6 @@
+# Cache
+.mem_cache/
+
 # Data files
 *.csv
 
